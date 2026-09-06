@@ -6,7 +6,7 @@
 
 📊 I also enjoy working with **data, analyzing data, and turning data into meaningful insights**.
 
-💼 Currently working at **Capgemini** as a **Data Analyst**.
+💼 Currently working at **Capgemini** as a **Software Associate**.
 
 ---
 
