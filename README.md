@@ -58,15 +58,15 @@
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat&logo=microsoft-excel)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhangi4&show_icons=true&theme=dark)
