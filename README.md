@@ -52,10 +52,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhangi-mondal-7361a7307))]
-
-[![Email]([https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhangimondal03@gmail.com))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhangi-mondal-7361a7307) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhangimondal03@gmail.com)
 ---
 
 ## 💻 Tech Stack
